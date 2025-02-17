@@ -25,7 +25,7 @@ export function PostProvider({ children }) {
           "https://jsonplaceholder.typicode.com/posts"
         );
         const data = await response.json();
-        setPosts(data); // Now storing all 100 posts
+        setPosts(data);
       } catch (error) {
         console.error("Error fetching posts:", error);
       }
