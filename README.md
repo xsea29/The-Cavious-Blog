@@ -42,5 +42,9 @@ It also supports **dark mode**, **pagination**, and **React Router** for seamles
 
 ### **🔹 Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/xsea29username/The-Cavious-Blog.git
+cd The-Cavious-Blog
+
+## **🔹 Install Dependency**
+npm install
+
