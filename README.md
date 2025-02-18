@@ -22,7 +22,7 @@ It also supports **dark mode**, **pagination**, and **React Router** for seamles
 ## 🖼 Screenshots
 
 ### **🏠 Home Page**
-![Home Page](./screenshots/home-1.png)
+![Home Page](src/screenshots/home-1.png)
 
 ### **📜 Post Details Page**
 ![Post Details](./screenshots/post-details.png)
