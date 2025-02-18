@@ -44,7 +44,40 @@ It also supports **dark mode**, **pagination**, and **React Router** for seamles
 ```bash
 git clone https://github.com/xsea29username/The-Cavious-Blog.git
 cd The-Cavious-Blog
-
-## **🔹 Install Dependency**
+```
+### **🔹 Install Dependency**
+```bash
 npm install
+```
+### **🔹 Run Locally**
+🔹 Run Locally
+```bash
+npm start
+```
+
+---
+
+### 🛠 Tech Stack
+### **⚛️React.js**
+### **🎨TailwindCSS**
+### **🚏React Router**
+### **🌐JSONPlaceholder API**
+### **GitHub Pages for deployment**
+
+---
+
+## 📌 API Used
+🔗https://jsonplaceholder.typicode.com/posts
+
+---
+
+## 🤝 Contributing
+
+### **Pull requests are welcome! 🚀**
+### **For major changes, open an issue first to discuss what you'd like to improve.**
+
+
+
+
+
 
