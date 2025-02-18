@@ -22,19 +22,19 @@ It also supports **dark mode**, **pagination**, and **React Router** for seamles
 ## 🖼 Screenshots
 
 ### **🏠 Home Page**
-![Home Page](./screenshots/home-1.png)
+![Home Page](src/screenshots/home-1.png)
 
 ### **📜 Post Details Page**
-![Post Details](./screenshots/post-details.png)
+![Post Details](src/screenshots/post-details.png)
 
 ### **🌙 Dark Mode**
-![Dark Mode](./screenshots/dark-mode.png)
+![Dark Mode](src/screenshots/dark-mode.png)
 
 ### **🔍 Search**
-![Search](./screenshots/search.png)
+![Search](src/screenshots/search.png)
 
 ### **⏮️⏭️ Paginate**
-![Pagination](./screenshots/pagination.png)
+![Pagination](src/screenshots/pagination.png)
 
 ---
 
