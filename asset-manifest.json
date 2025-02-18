@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/The-Cavious-Blog/static/css/main.31701b4f.css",
-    "main.js": "/The-Cavious-Blog/static/js/main.df8728f6.js",
+    "main.js": "/The-Cavious-Blog/static/js/main.b3507d9e.js",
     "index.html": "/The-Cavious-Blog/index.html",
     "main.31701b4f.css.map": "/The-Cavious-Blog/static/css/main.31701b4f.css.map",
-    "main.df8728f6.js.map": "/The-Cavious-Blog/static/js/main.df8728f6.js.map"
+    "main.b3507d9e.js.map": "/The-Cavious-Blog/static/js/main.b3507d9e.js.map"
   },
   "entrypoints": [
     "static/css/main.31701b4f.css",
-    "static/js/main.df8728f6.js"
+    "static/js/main.b3507d9e.js"
   ]
 }
