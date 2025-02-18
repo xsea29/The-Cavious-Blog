@@ -1,5 +1,5 @@
 function Footer() {
-  return <footer>&copy; by The JSON Blog ✌️</footer>;
+  return <footer>&copy; by The Cavious Blog ✌️</footer>;
 }
 
 export default Footer;
