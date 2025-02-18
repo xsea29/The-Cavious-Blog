@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { PostProvider } from "./PostContext";
 import Header from "./components/Header";
@@ -23,7 +23,7 @@ function App() {
   }, [isDarkMode]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <PostProvider>
         <section className="max-w-screen-xl mx-auto p-8 bg-white invert dark:invert-0 transition duration-500">
           {/* invert dark:invert-0 transition duration-500 */}
@@ -44,7 +44,7 @@ function App() {
           <Footer />
         </section>
       </PostProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
